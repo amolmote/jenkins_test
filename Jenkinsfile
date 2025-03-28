@@ -1,5 +1,8 @@
 pipeline {
-    agent any
+    agent {
+     lable 'linux'
+    }
+    
     
     tools {
         maven "MVN3"
