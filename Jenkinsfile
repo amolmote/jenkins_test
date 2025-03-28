@@ -27,7 +27,7 @@ pipeline {
         
         stage ('print') {
             agent{
-                label 'linux'
+                label any
             }
             steps {
                 sh "echo testing"
