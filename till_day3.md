@@ -3,38 +3,6 @@ Welcome to Adv DevOps Training
 Short url for codeshare: https://shorturl.at/Nk8IY
 Lab URL:	https://virtuallabs.palmeto.co.in/	
 
-S. No.	Participant Name	        Username	    Password
-1	Viswanadh Velamuri	            BOA-Devops01	P@lmeto@123
-2	Samridhi Jain	                BOA-Devops02	P@lmeto@123
-3	Mohanan, Vinisha	            BOA-Devops03	P@lmeto@123
-4	Nandagopal, Vishnu Priya	    BOA-Devops04	P@lmeto@123
-5	Gupta, Pramod K	                BOA-Devops05	P@lmeto@123
-6	Shenoy, Amit	                BOA-Devops06	P@lmeto@123
-7	Mohanraj, Karthikeyan	        BOA-Devops07	P@lmeto@123
-8	Narware, Ashwinee	            BOA-Devops08	P@lmeto@123
-9	T, Vignesh	                    BOA-Devops09	P@lmeto@123
-10	Gandi, Mahesh	                BOA-Devops10	P@lmeto@123
-11	Saxena, Siddhartha	            BOA-Devops11	P@lmeto@123
-12	Jaglan, Ritu	                BOA-Devops12	P@lmeto@123
-13	Betgerikar, Alok	            BOA-Devops13	P@lmeto@123
-14	Kumar, Rajesh2	                BOA-Devops14	P@lmeto@123
-15	Mahapatra, Subhadarshini	    BOA-Devops15	P@lmeto@123
-16	Aayush Jaiswal	                BOA-Devops16	P@lmeto@123
-17	Amol Mote	                    BOA-Devops17	P@lmeto@123
-18	Nikhita Kalamkar	            BOA-Devops18	P@lmeto@123
-19	Kashish Nanda	                BOA-Devops19	P@lmeto@123
-20	Vishvarajsinh Chauhan	        BOA-Devops20	P@lmeto@123
-21	Adweteey Dwivedi	            BOA-Devops21	P@lmeto@123
-22	Jegannthan	                    BOA-Devops22	P@lmeto@123
-23	Sampath, Marappan	            BOA-Devops23	P@lmeto@123
-24	Ramanathan, Keerthana	        BOA-Devops24	P@lmeto@123
-25	Sudheer, Bhogu Venkata Subbarama	BOA-Devops25	P@lmeto@123
-26	Vimal, Sneha 	                BOA-Devops26	P@lmeto@123
-27	Anandharaju, Prakash 	        BOA-Devops27	P@lmeto@123
-
-Pre Assessment:
-https://forms.office.com/r/GFFq1CAvdk
-
 Power on lab server
 ---
 vmware workstation -- 
